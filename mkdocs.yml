@@ -32,4 +32,6 @@ markdown_extensions:
 # http://www.mkdocs.org/user-guide/writing-your-docs/#configure-pages-and-navigation
 nav:
   - About: 'index.md'
+  - Backend:
+    - Django: 'django.md'
   - FAQ: 'faq.md'
