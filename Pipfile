@@ -9,6 +9,10 @@ verify_ssl = true
 mkdocs = "*"
 mkdocs-material = "*"
 mdx-truly-sane-lists = "*"
+pyyaml = "*"
 
 [requires]
 python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true
